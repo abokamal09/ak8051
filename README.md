@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!!;Welcome+To+my+Profile;Stay+Creative!!)](https://git.io/typing-svg)
 
-[](https://imgur.com/NeJq2T5)
+[The bg](https://imgur.com/NeJq2T5)
 
 - 📄 Know about my experiences [https://resume.io/r/0OywCGGfi](https://resume.io/r/0OywCGGfi)
 
