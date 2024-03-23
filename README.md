@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Kamal</h1>
 <h3 align="center">Developer☕</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!!;Welcome+To+my+Profile;Stay+Creative!!)](https://git.io/typing-svg)
 
 - 📄 Know about my experiences [https://resume.io/r/0OywCGGfi](https://resume.io/r/0OywCGGfi)
 
